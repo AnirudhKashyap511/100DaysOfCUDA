@@ -12,4 +12,4 @@
 
 ### Day3: 
 - implemented img2gray
-- TODO: Tiled matrix multiplication
+- implemented imgBlur
