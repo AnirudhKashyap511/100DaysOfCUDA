@@ -9,3 +9,7 @@
 ### Day 2:
 - Implemented matrix multiplication using CUDA.
 - Finished reading first 2 chapters of TB.
+
+### Day3: 
+- implemented img2gray
+- TODO: Tiled matrix multiplication
